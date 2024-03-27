@@ -1,8 +1,8 @@
-# Research in Ethical Quantum-Secured Systems (REQS Lab)
+# Research in EDAI Quantum-Secured Systems (REQS Lab)
 
 Lab Director: Dr. Davor Svetinovic
 
-Affiliated Faculty (to be confirmed): Dr. Khaled Elbassioni, Dr. Andreas Henschel, Dr. Zeyar Aung, Dr. Yousef Al Salami
+Affiliated Faculty: Dr. Khaled Elbassioni, Dr. Andreas Henschel, Dr. Zeyar Aung, Dr. Yousef Al Salami
 
 Description: REQS Lab is a forward-thinking research initiative dedicated to exploring and advancing the field of ethical, secure, and sustainable technology at the intersection of blockchain, decentralized AI, and quantum computing. Our mission is to pioneer innovative solutions and methodologies that ensure emerging technologies' ethical use, robust security, and environmental sustainability. We are committed to developing quantum-secured systems that can operate within blockchain and decentralized AI, ensuring trust and integrity in a rapidly evolving digital landscape.
 
